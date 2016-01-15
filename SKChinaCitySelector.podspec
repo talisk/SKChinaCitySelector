@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "An China city selector."
 
   s.homepage     = "https://github.com/talisk/SKChinaCitySelector"
-  s.license      = 'MIT'
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Swain" => "talisk@talisk.cn" }
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "8.0"
