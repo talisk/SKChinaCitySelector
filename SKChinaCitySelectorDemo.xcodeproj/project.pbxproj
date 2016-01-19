@@ -13,7 +13,6 @@
 		B13D4ABB1C45DE1900C74977 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B13D4AB91C45DE1900C74977 /* Main.storyboard */; };
 		B13D4ABD1C45DE1900C74977 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B13D4ABC1C45DE1900C74977 /* Assets.xcassets */; };
 		B13D4AC01C45DE1900C74977 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B13D4ABE1C45DE1900C74977 /* LaunchScreen.storyboard */; };
-		B13D4AD61C45DE8500C74977 /* check.png in Resources */ = {isa = PBXBuildFile; fileRef = B13D4AC81C45DE8500C74977 /* check.png */; };
 		B13D4AD71C45DE8500C74977 /* citydict.plist in Resources */ = {isa = PBXBuildFile; fileRef = B13D4AC91C45DE8500C74977 /* citydict.plist */; };
 		B13D4AD81C45DE8500C74977 /* citydict1.plist in Resources */ = {isa = PBXBuildFile; fileRef = B13D4ACA1C45DE8500C74977 /* citydict1.plist */; };
 		B13D4AD91C45DE8500C74977 /* citydictionary.plist in Resources */ = {isa = PBXBuildFile; fileRef = B13D4ACB1C45DE8500C74977 /* citydictionary.plist */; };
@@ -37,7 +36,6 @@
 		B13D4ABC1C45DE1900C74977 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B13D4ABF1C45DE1900C74977 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B13D4AC11C45DE1900C74977 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B13D4AC81C45DE8500C74977 /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check.png; sourceTree = "<group>"; };
 		B13D4AC91C45DE8500C74977 /* citydict.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = citydict.plist; sourceTree = "<group>"; };
 		B13D4ACA1C45DE8500C74977 /* citydict1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = citydict1.plist; sourceTree = "<group>"; };
 		B13D4ACB1C45DE8500C74977 /* citydictionary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = citydictionary.plist; sourceTree = "<group>"; };
@@ -108,7 +106,6 @@
 		B13D4AC71C45DE8500C74977 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				B13D4AC81C45DE8500C74977 /* check.png */,
 				B13D4AC91C45DE8500C74977 /* citydict.plist */,
 				B13D4ACA1C45DE8500C74977 /* citydict1.plist */,
 				B13D4ACB1C45DE8500C74977 /* citydictionary.plist */,
@@ -191,7 +188,6 @@
 				B13D4ADF1C45DE8500C74977 /* HotCityTableViewCell.xib in Resources */,
 				B13D4ABD1C45DE1900C74977 /* Assets.xcassets in Resources */,
 				B13D4AD81C45DE8500C74977 /* citydict1.plist in Resources */,
-				B13D4AD61C45DE8500C74977 /* check.png in Resources */,
 				B13D4ABB1C45DE1900C74977 /* Main.storyboard in Resources */,
 				B13D4ADB1C45DE8500C74977 /* CityListViewController.xib in Resources */,
 			);
@@ -356,6 +352,7 @@
 				B13D4AC61C45DE1900C74977 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

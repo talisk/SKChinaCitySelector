@@ -22,6 +22,6 @@
 
 @property (nonatomic, retain) NSDictionary *cities;
 @property (nonatomic, retain) NSArray *keys;
-@property (nonatomic, assign) BOOL draggable; // Default: YES
+//@property (nonatomic, assign) BOOL draggable; // Default: YES
 
 @end

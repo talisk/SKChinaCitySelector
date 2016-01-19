@@ -1,8 +1,9 @@
 //
-//  CityListViewController.h
+//  CitySelectTableViewController.h
+//  Wear
 //
-//  Created by Bit Watermelon on 11-11-10.
-//  Copyright 2011年 __MyCompanyName__. All rights reserved.
+//  Created by 孙恺 on 15/11/26.
+//  Copyright © 2015年 sunkai. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
